@@ -1,6 +1,11 @@
 EOS-SKL
 =======
 
+About
+-----
+
+EOS Source Kit Language - A mysterious, but useful C code, for i386 and ARM architectures.
+
 License
 -------
 
