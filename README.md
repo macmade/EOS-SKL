@@ -1,7 +1,7 @@
 EOS-SKL
 =======
 
-[![Build Status](https://travis-ci.org/macmade/EOS-SKL.svg?branch=master)](https://travis-ci.org/macmade/EOS-SKL)
+[![Build Status](https://img.shields.io/travis/macmade/EOS-SKL.svg?branch=master&style=flat)](https://travis-ci.org/macmade/EOS-SKL)
 
 About
 -----
